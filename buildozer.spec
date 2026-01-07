@@ -13,7 +13,7 @@ package.domain = org.test
 source.dir = .
 
 # (list) Source files to include
-source.include_exts = py,png,jpg,kv,atlas
+source.include_exts = py,png,jpg,kv,pygame customtkinter
 
 # (str) Application versioning
 version = 0.1
